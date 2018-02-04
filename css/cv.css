@@ -1,0 +1,55 @@
+body{
+	background:gray;
+	background-image: url(../image/azad.jpg);
+}
+
+
+#page{
+	width: 900px;
+	margin: auto;
+	height: auto; 
+	background: white; 
+	color:black;
+	font-family: Times New Roman;
+	padding:10px;
+	border: 5px solid;
+	border-color: red;
+	font-size:20px; 
+	opacity:1;
+}
+#infophoto{
+	height:200px; 
+	
+}
+#info{
+		float: left;
+		
+}
+#img{
+	float:right; 
+}
+ h1{
+		background: gray;
+		opacity:0.80;
+}
+
+#arecord table{
+	top:0px; 
+	text-align: center;
+}
+#training table{
+	top:0px; 
+	text-align: center;
+}
+#pdetails p{
+	padding:3px;
+	margin:10px; 
+	
+}
+#signiture{
+	text-align:right; 
+	line-height: 0px;
+	padding:0px;
+	
+	
+}
